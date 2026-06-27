@@ -210,4 +210,14 @@ Short answer: **No, not on your own.** Membership is tied to your deed and there
 
 ---
 
+## A Brief Editorial Note
+
+Let's be honest: HOAs are fucking stupid. You buy a house — the single biggest purchase of your life — and then have to mail a committee a property survey and wait 60 days for permission to put up a basketball hoop or paint your own front door. A volunteer board can fine you $20 a day over a shed that's the wrong shade of beige, and bury a lien on your home over a swing set. The whole apparatus runs on the deeply weird premise that your neighbors' feelings about your awning outrank your right to enjoy the property you actually own and pay taxes on.
+
+The pitch is "protecting property values." The reality is a permission slip for adulthood, enforced by people with a clipboard and a grudge, funded by your dues. It's bureaucracy cosplay — all the paperwork of a government with none of the accountability.
+
+Anyway. None of that changes the fact that the rules are binding and the fines are real, so follow the guide above. Rage quietly, file your applications, and vote in September.
+
+---
+
 _This guide summarizes the Hawthorne Ridge governing documents (Rules & Regulations, Design Guidelines, Declaration of Covenants, Bylaws, and related policies). For any decision that matters, read the original documents or consult the management company or an attorney._
