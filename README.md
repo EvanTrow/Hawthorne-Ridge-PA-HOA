@@ -23,6 +23,7 @@ A simple summary of the Hawthorne Ridge Community Owners Association rules. This
 If you want to change anything visible on the outside of your home or lot, you generally need to apply first.
 
 **How it works:**
+
 1. Mail a completed Architectural Standards Application to the Architectural Standards Committee, c/o Tidewater Management Company, 3706 Crondall Lane, Suite 105, Owings Mills, MD 21117.
 2. Include details: drawings, photos, materials, colors, and a copy of your property survey with the change marked.
 3. The committee has **60 days** to approve or deny. No answer in 60 days = automatically approved (but you still have to follow all the rules).
@@ -36,6 +37,7 @@ If you want to change anything visible on the outside of your home or lot, you g
 ## What Needs Approval vs. What Doesn't
 
 ### Usually OK without applying (if it follows the rules)
+
 - Repainting or restaining to the original color
 - Replacing windows, gutters, or storm doors with identical ones
 - Planting annuals/perennials in existing beds, or small new foundation/perimeter beds
@@ -45,6 +47,7 @@ If you want to change anything visible on the outside of your home or lot, you g
 - A wall-mounted flag staff 6 ft or less (angled against the house)
 
 ### Needs approval first
+
 - Decks, patios, screened porches, gazebos, sheds, room additions, garages, greenhouses (attached only)
 - New fences, new windows, skylights, awnings
 - Color changes of any kind (siding, doors, shutters, trim, roof)
@@ -64,12 +67,14 @@ If you want to change anything visible on the outside of your home or lot, you g
 ## The Rules, Topic by Topic
 
 ### Trees & Landscaping
+
 - You **cannot** remove a healthy tree over 4 inches thick (or a flowering tree over 2 inches) without approval. Same for anything in marked conservation, wetland, or "no-cut" areas.
 - You **can** remove dead trees and nasty invasives (poison ivy, kudzu, etc.) without asking.
 - Your yard must be maintained: grass mowed (under 6 inches), weeds under 25%, no bare dirt, dead plants removed.
 - No chain-link or barbed wire fences, ever.
 
 ### Pets
+
 - Maximum **two pets** per home.
 - Pets live indoors; outside only when supervised.
 - No leaving pets out unattended after dark.
@@ -78,6 +83,7 @@ If you want to change anything visible on the outside of your home or lot, you g
 - Pets are never allowed in the clubhouse.
 
 ### Renting Out Your Home
+
 - Renting is allowed, with no limit on how many homes can be rented.
 - Leases must be at least **6 months** and in writing.
 - You must give the management company: a copy of the lease, a signed Lease Addendum, and a Tenant Registration Form.
@@ -86,21 +92,25 @@ If you want to change anything visible on the outside of your home or lot, you g
 - You stay responsible for your tenant's rule violations.
 
 ### Parking & Vehicles
+
 - No storing unregistered, broken, or uninspected vehicles outside.
 - No boats, RVs, trailers, buses, or commercial trucks parked outside (garage with the door closed only).
 - No tractors or motor homes parked in the community at all.
 
 ### Trash & Outdoor Storage
+
 - Trash goes in covered containers, hidden from view except on pickup day.
 - No burning trash. No piles of junk, metal, or materials lying around.
 - Nothing stored in front or side yards (no hoses, toys, lawn equipment out front).
 
 ### Signs
+
 - Only one "For Sale/Rent" sign (max 4 sq ft), removed within a week of the sale.
 - Up to two small security signs.
 - Everything else needs approval.
 
 ### Drainage & Water
+
 - New drain pipes need approval. Buried tubing should point away from neighbors.
 - No water discharge within 3 feet of a neighbor's property.
 - Drain water must flow the same direction as existing patterns, never aimed at a neighbor.
@@ -108,14 +118,16 @@ If you want to change anything visible on the outside of your home or lot, you g
 - Even with approval, drainage problems you cause are **your** responsibility.
 
 ### Home Exterior Details
+
 - **Business use:** Homes are for living only. No stores, salons, or shops without written permission.
-- **Solar panels:** Allowed *with ASC approval*, but with strings attached (per a 2020 amendment). Roof-mounted only — **no ground-mounted** panels. They must go on the back of the house or a garage roof so they aren't visible from the street in front, sit flush with the roof slope, not break the ridgeline, and use commercially made (no homemade) equipment. Apply before installing.
+- **Solar panels:** Allowed _with ASC approval_, but with strings attached (per a 2020 amendment). Roof-mounted only — **no ground-mounted** panels. They must go on the back of the house or a garage roof so they aren't visible from the street in front, sit flush with the roof slope, not break the ridgeline, and use commercially made (no homemade) equipment. Apply before installing.
 - **Pools:** In-ground only (with a 4-ft fence). Small kiddie pools OK in the backyard.
 - **A/C:** No window or wall units. Replacing your central unit in place is fine; relocating it needs approval.
 - **Antennas/dishes:** Dishes over 1 meter prohibited; smaller ones go in back, screened.
 - **Fences:** Max 5 ft for single-family detached homes, 6 ft for attached homes; rear/side only, never forward of the back wall. White vinyl, wood, cedar, or black aluminum — never chain-link or barbed wire.
+- **Portable/temporary child or dog fencing:** No special exemption — the rules cover changes "permanent _or_ temporary," so a pop-up pen or removable fence may need ASC approval. Pens can't sit in front/side yards, and pets must be supervised outdoors.
 - **Sheds:** Wood or resin (e.g., Rubbermaid) only — **no metal or pre-fab metal sheds**. Min. 2-ft setback, rear yard, never in HOA open space.
-- **Basketball:** Permanent poles in the driveway only (15 ft back from the street, not attached to the house/garage). **Portable hoops are prohibited**, and play is daylight-only.
+- **Basketball:** Permanent poles in the driveway only (15 ft back from the street, not attached to the house/garage). **Portable hoops need ASC approval** (stored next to the house when not in use); play is daylight-only.
 - **Vegetable gardens:** Rear yard only, max 50 sq ft, plants under 3 ft tall, kept tidy.
 - **Storm doors:** Full-view only (glass covering 80%+), white or matching your entry door.
 - **Security bars** on windows/doors are generally prohibited (rare exceptions if hidden from view).
@@ -123,6 +135,7 @@ If you want to change anything visible on the outside of your home or lot, you g
 - Most additions (decks, sheds, awnings, etc.) have detailed rules on size, color, materials, and placement — generally rear-yard, neutral colors, matching the house.
 
 ### Noise & Nuisances
+
 - No loud recreational vehicles (go-carts, dirt bikes) on lots or roads.
 - No outdoor speakers or sirens (except security).
 - Nothing that becomes an annoyance to neighbors.
@@ -140,15 +153,18 @@ The HOA follows a step-by-step process before it can fine you:
 5. You always have the right to **notice, a hearing, and an appeal** before serious penalties.
 
 ### Sample Fines
-| Violation | Fine |
-|-----------|------|
-| Unapproved exterior change | $350 + up to $20/day until fixed |
-| Pet violation | $50 first time, $100 after |
-| Trash, signage, holiday décor, landscaping | $50 each |
-| Rental paperwork missing | $100, then $350+/month |
+
+| Violation                                  | Fine                             |
+| ------------------------------------------ | -------------------------------- |
+| Unapproved exterior change                 | $350 + up to $20/day until fixed |
+| Pet violation                              | $50 first time, $100 after       |
+| Trash, signage, holiday décor, landscaping | $50 each                         |
+| Rental paperwork missing                   | $100, then $350+/month           |
 
 ### If Fines Go Unpaid
+
 This is the serious part. Unpaid fines and dues become a **lien** on your home. The collection process escalates on a schedule:
+
 - **30 days past due:** First Notice of delinquency.
 - **60 days past due:** Second Notice.
 - **90 days past due:** A certified **10-day demand letter from the HOA's attorney**, warning that the account will be turned over for collection.
@@ -194,4 +210,4 @@ Short answer: **No, not on your own.** Membership is tied to your deed and there
 
 ---
 
-*This guide summarizes the Hawthorne Ridge governing documents (Rules & Regulations, Design Guidelines, Declaration of Covenants, Bylaws, and related policies). For any decision that matters, read the original documents or consult the management company or an attorney.*
+_This guide summarizes the Hawthorne Ridge governing documents (Rules & Regulations, Design Guidelines, Declaration of Covenants, Bylaws, and related policies). For any decision that matters, read the original documents or consult the management company or an attorney._
